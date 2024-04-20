@@ -1,4 +1,3 @@
-﻿# Build your first Chatbot for getting IPL updates using the Rasa Stack 
 
 This is the **Complete Version** of the IPL Chatbot and can be directly used with slack by filling **slack_credentials.yml** and CricAPI's key in the **actions.py** files.
 
